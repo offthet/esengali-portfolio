@@ -1,0 +1,41 @@
+.column h1{
+    text-align: center;
+}
+.column1 audio{
+    position: fixed;
+    bottom: 100%;
+}
+.column3 button{
+    width: 100px;
+    height: 30px;
+    left: 7%;
+    bottom: 85%;
+    position: fixed;
+}
+.column3{
+    width: 100px;
+    height: 30px;
+}
+.column {
+    width: 300px;
+}
+.column4{
+    background-color: aqua;
+    width: 226px;
+    height: 223px;
+    right: 9%;
+    position: fixed;
+    bottom: 63%;
+}
+.column4 img{
+    width: 200px;
+    height: 200px;
+    right: 10%;
+    position: fixed;
+    bottom: 65%;
+}
+.column5 pre{
+    right: 9%;
+    position: fixed;
+    bottom: 50%;
+}
